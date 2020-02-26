@@ -5,6 +5,8 @@ import threading
 import time
 
 # базовые настройки в коде
+token = 'bot token'
+settingsfile = 'json_file.json'
 refreshinterval = 600
 
 # инициазиция глобальных переменных
