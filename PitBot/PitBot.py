@@ -5,8 +5,6 @@ import threading
 import time
 
 # базовые настройки в коде
-token = '790646423:AAEeiyXM7a-5ONsX7CkZnBKK-HJBerM45gU'
-settingsfile = 'c:\\temp\\settings.json'
 refreshinterval = 600
 
 # инициазиция глобальных переменных
